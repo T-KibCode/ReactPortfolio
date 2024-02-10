@@ -1,2 +1,0 @@
-# ReactPortfolio
-Demo ReactPortfolio File 
